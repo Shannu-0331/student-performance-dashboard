@@ -4,14 +4,14 @@ This project presents an interactive Excel dashboard to explore how various fact
 ## 📊 Features
 - KPIs: Average Grade.
 - Pivot Charts: Travel Time, Study Time, Gender-based Analysis
-- Filters: Gender, School, Extra Class Participation
+- Filters: Gender, School.
 - Scatter Plot with R² for Absence Analysis
 
 ## 📁 Files Included
 - Student_Performance_Dashboard_TamidalaShanmukhi.xlsx
 
 ## 📥 How to Use
-1. Download the `.xlsx` file
+1. Download the .xlsx file
 2. Open it in **Excel Desktop**
 3. Use slicers and charts to interact with the data
 
